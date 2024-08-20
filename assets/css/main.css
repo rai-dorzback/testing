@@ -3896,6 +3896,7 @@ input, select, textarea {
 
 				#intro::before {
 					height: 6rem;
+					top:1rem;
 				}
 
 			}
@@ -3908,6 +3909,7 @@ input, select, textarea {
 
 				#intro::before {
 					height: 5rem;
+					top:0;
 				}
 			}
 
