@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #a20b1e;
+		background: #fff;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3015,7 +3015,6 @@ input, select, textarea {
 			-ms-justify-content: center;
 			justify-content: center;
 			width: 50em;
-			-ms-flex: 1;
 		}
 
 			.spotlights > section > .content > .inner {
@@ -3235,7 +3234,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3-alt {
-			background-color: #953d75;
+			background-color:#1d1d1d;
 		}
 
 		.wrapper.fullscreen {
